@@ -2,13 +2,11 @@
 
 # HelpDesk
 
-### Make the request, its progress and its responsibility visible.
-
-**Talebi, ilerlemesini ve sorumluluğunu görünür kılın.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://helpdesk.mk/"><img src="assets/product-hero.svg" width="100%" alt="HelpDesk — Support request coordination; conceptual product illustration" /></a>
+<img src="assets/product-hero.svg" width="100%" alt="HelpDesk — ürün görsel sunumu" />
+
+**Talebi, ilerlemesini ve sorumluluğunu görünür kılın.**
 
 [![Website](https://img.shields.io/badge/helpdesk.mk-OFFICIAL_WEBSITE-1476E8?style=for-the-badge)](https://helpdesk.mk/)
 [![Explore](https://img.shields.io/badge/EXPLORE-HelpDesk-14223C?style=for-the-badge)](https://helpdesk.mk/)
@@ -17,8 +15,6 @@
 **LIVE**
 
 </div>
-
----
 
 ## Sorun ve çözüm
 
@@ -83,7 +79,7 @@ Fayda talep çevresindeki hesap verebilirliktir. Durum işin nerede olduğunu, s
 | Resmî alan adı | [helpdesk.mk](https://helpdesk.mk/) |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
-| Kategori | Support request coordination |
+| Kategori | Destek talebi koordinasyonu |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |
 | İş iletişimi | [contact@processin.mk](mailto:contact@processin.mk) |
 
@@ -103,5 +99,4 @@ Fayda talep çevresindeki hesap verebilirliktir. Durum işin nerede olduğunu, s
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·

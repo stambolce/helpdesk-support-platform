@@ -2,13 +2,11 @@
 
 # HelpDesk
 
-### Make the request, its progress and its responsibility visible.
-
-**Bëni të dukshme kërkesën, ecurinë dhe përgjegjësinë.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<a href="https://helpdesk.mk/"><img src="assets/product-hero.svg" width="100%" alt="HelpDesk — Support request coordination; conceptual product illustration" /></a>
+<img src="assets/product-hero.svg" width="100%" alt="HelpDesk — prezantim vizual i produktit" />
+
+**Bëni të dukshme kërkesën, ecurinë dhe përgjegjësinë.**
 
 [![Website](https://img.shields.io/badge/helpdesk.mk-OFFICIAL_WEBSITE-1476E8?style=for-the-badge)](https://helpdesk.mk/)
 [![Explore](https://img.shields.io/badge/EXPLORE-HelpDesk-14223C?style=for-the-badge)](https://helpdesk.mk/)
@@ -17,8 +15,6 @@
 **LIVE**
 
 </div>
-
----
 
 ## Problemi dhe zgjidhja
 
@@ -83,7 +79,7 @@ Përfitimi është përgjegjshmëria: statusi shpjegon gjendjen, përgjegjësia 
 | Domeni zyrtar | [helpdesk.mk](https://helpdesk.mk/) |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
-| Kategoria | Support request coordination |
+| Kategoria | Koordinim kërkesash mbështetjeje |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |
 | Kontakti tregtar | [contact@processin.mk](mailto:contact@processin.mk) |
 
@@ -103,5 +99,4 @@ Përfitimi është përgjegjshmëria: statusi shpjegon gjendjen, përgjegjësia 
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
