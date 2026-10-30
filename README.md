@@ -6,7 +6,7 @@
 
 **Support request coordination**
 
-[English](README.md) · [Македонски](README.mk.md)
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
 <a href="https://helpdesk.mk/"><img src="assets/product-hero.svg" width="100%" alt="HelpDesk — Support request coordination; conceptual product illustration" /></a>
 

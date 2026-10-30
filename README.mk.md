@@ -6,7 +6,7 @@
 
 **Координација на барања за поддршка**
 
-[English](README.md) · [Македонски](README.mk.md)
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
 <a href="https://helpdesk.mk/"><img src="assets/product-hero.svg" width="100%" alt="HelpDesk — Координација на барања за поддршка; концептуална визуелизација" /></a>
 
